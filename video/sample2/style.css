@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.text-8xl {
+  font-size: 6rem;
+  line-height: 1;
+  letter-spacing: -0.05em;
+}

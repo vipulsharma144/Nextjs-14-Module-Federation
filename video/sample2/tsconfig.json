@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "target": "es5",
+    "module": "CommonJS",
+    "esModuleInterop": true,
+
+    "forceConsistentCasingInFileNames": true,
+    "typeRoots": [
+      "../../avid14/node_modules/@types",
+      "../../avid14/types",
+      "../../avid14/node_modules/"
+    ],
+    "jsx": "react"
+  }
+}
